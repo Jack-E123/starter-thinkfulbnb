@@ -149,7 +149,7 @@ footer p {
 }
 
 /* -------  Media Query ------- */
-@media all and (min-width: 768px) {
+@media all and (min-width: 480px) {
   form {
     display: flex;
     flex-direction: row;
